@@ -1,0 +1,13 @@
+Date,Region,Category,Sales,Profit,Quantity
+2024-01-31,North,Electronics,12000,3000,25
+2024-02-29,South,Furniture,8500,1500,18
+2024-03-31,East,Clothing,9400,1800,20
+2024-04-30,West,Accessories,10300,2000,22
+2024-05-31,North,Electronics,15000,4000,30
+2024-06-30,South,Furniture,8700,1600,19
+2024-07-31,East,Clothing,9200,1750,21
+2024-08-31,West,Accessories,11100,2500,23
+2024-09-30,North,Electronics,13000,3100,28
+2024-10-31,South,Furniture,7600,1400,17
+2024-11-30,East,Clothing,8800,1550,18
+2024-12-31,West,Accessories,9900,2100,20
